@@ -1,0 +1,6 @@
+@SimpleQuotes_HostAddress = http://localhost:5156
+
+GET {{SimpleQuotes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
